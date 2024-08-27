@@ -1,0 +1,55 @@
+{
+    "country": [
+        {
+            "id": "ISR",
+            "name": "Israel",
+            "description": "Israel is known for its high-tech industry, advanced agriculture, and as the center of major world religions, including Judaism, Christianity, and Islam. The country has a strong economy and is a major player in technology, innovation, and military industries."
+        },
+        {
+            "id": "POL",
+            "name": "Poland",
+            "description": "Poland has a rich history and cultural heritage, with influences from both Western and Eastern Europe. The country has a strong economy with key sectors including manufacturing, agriculture, and services. Poland is also known for its resilient population and contributions to European history."
+        },
+        {
+            "id": "KAZ",
+            "name": "Kazakhstan",
+            "description": "Kazakhstan is the largest landlocked country in the world, known for its vast steppes and rich natural resources, particularly oil and minerals. The country has a diverse culture with influences from Russia, China, and the Turkic world. Kazakhstan is also known for its space launch site, Baikonur Cosmodrome."
+        },
+        {
+            "id": "RSA",
+            "name": "South Africa",
+            "description": "South Africa is known for its diverse cultures, wildlife, and as the birthplace of Nobel Peace Prize laureates Nelson Mandela and Desmond Tutu. The country has a mixed economy with key industries including mining, manufacturing, and services. South Africa is also famous for its natural beauty, including Table Mountain and Kruger National Park."
+        },
+        {
+            "id": "JAM",
+            "name": "Jamaica",
+            "description": "Jamaica is known for its rich cultural heritage, particularly in music, with reggae and dancehall being global influences. The country has a strong tourism industry, driven by its beautiful beaches and vibrant culture. Jamaica is also known for its contributions to athletics, particularly in sprinting."
+        },
+        {
+            "id": "THA",
+            "name": "Thailand",
+            "description": "Thailand is known for its rich culture, including Buddhist temples, traditional dance, and cuisine. The country has a strong economy driven by tourism, agriculture, and manufacturing. Thailand is also famous for its tropical beaches, vibrant cities, and as a popular tourist destination."
+        },
+        {
+            "id": "ETH",
+            "name": "Ethiopia",
+            "description": "Ethiopia is one of the oldest nations in the world, with a rich history dating back to ancient civilizations. The country is known for its diverse cultures, ancient churches, and as the origin of coffee. Ethiopia has a growing economy, with agriculture being a key sector."
+        },
+        {
+            "id": "SUI",
+            "name": "Switzerland",
+            "description": "Switzerland is known for its neutrality, banking sector, and as a global hub for diplomacy and international organizations. The country has a high standard of living, with a strong economy based on finance, pharmaceuticals, and high-tech industries. Switzerland is also famous for its chocolate, watches, and the Alps."
+        },
+        {
+            "id": "ECU",
+            "name": "Ecuador",
+            "description": "Ecuador is known for its diverse ecosystems, including the Amazon rainforest, Andes mountains, and the Galápagos Islands. The country has a mixed economy with key sectors including oil, agriculture, and tourism. Ecuador is also known for its rich indigenous culture and biodiversity."
+        },
+        {
+            "id": "POR",
+            "name": "Portugal",
+            "description": "Portugal is known for its maritime history, being one of the leading nations during the Age of Exploration. The country has a rich cultural heritage, with influences from its colonial past. Portugal is also known for its wine, particularly Port and Madeira, as well as its beautiful landscapes and historic cities."
+        }
+    ]
+  }
+  
